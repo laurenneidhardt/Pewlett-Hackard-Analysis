@@ -11,8 +11,8 @@ Results: Provide a bulleted list with four major points from the two analysis de
 
 ## Summary: ##
 
-The summary addresses the two questions and contains two additional queries or tables that may provide more insight. (5 pt)
 Summary: Provide high-level responses to the following questions, then provide two additional queries or tables that may provide more insight into the upcoming "silver tsunami."
+
 How many roles will need to be filled as the "silver tsunami" begins to make an impact? I think we need more information here as far as what denotes eligibility, how does hire date play into this and are we assuming everyone will retire once eligible? Have any surveys been done amongst the 33k employees. Will the company force retirement? 
 
 
