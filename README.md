@@ -15,4 +15,5 @@ The summary addresses the two questions and contains two additional queries or t
 Summary: Provide high-level responses to the following questions, then provide two additional queries or tables that may provide more insight into the upcoming "silver tsunami."
 How many roles will need to be filled as the "silver tsunami" begins to make an impact? I think we need more information here as far as what denotes eligibility, how does hire date play into this and are we assuming everyone will retire once eligible? Have any surveys been done amongst the 33k employees. Will the company force retirement? 
 Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees? The numbers are very different between how many employees are eligible for mentorship vs how many current employees are in those departments. Would we be open to expanding eligibility outside of those born in 1965? Are we able to add more mentors on an annual basis? 
-![
+![Total_Dept_Counts](https://github.com/laurenneidhardt/Pewlett-Hackard-Analysis/blob/main/Total_Dept_Counts.PNG)
+![Mentor_Depts](https://github.com/laurenneidhardt/Pewlett-Hackard-Analysis/blob/main/Mentor_Depts.PNG)
