@@ -10,11 +10,12 @@ The purpose of this analysis is to help anticipate staffing issues when a large 
 * These results could be taken a step further, removing non-current employees for the retiring unique titles.
 * The list for unique titles is an expected outcome, the most departments effected byt the "Silver Tsunami" are the largest departments.
 
-
+![Code_Deliverable1](https://github.com/laurenneidhardt/Pewlett-Hackard-Analysis/blob/main/Code_Deliverable1.PNG)
+![Code_Deliverable2](https://github.com/laurenneidhardt/Pewlett-Hackard-Analysis/blob/main/Code_Deliverable2.PNG)
 
 ## Summary: ##
 
-Summary: Provide high-level responses to the following questions, then provide two additional queries or tables that may provide more insight into the upcoming "silver tsunami."
+
 
 ### How many roles will need to be filled as the "silver tsunami" begins to make an impact? ###
 I think we need more information here as far as what denotes eligibility, how does hire date play into this and are we assuming everyone will retire once eligible? Have any surveys been done amongst the 33k employees. Will the company force retirement? 
