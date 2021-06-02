@@ -22,17 +22,23 @@ I think we need more information here as far as what denotes eligibility, how do
 ### Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees? ###
 The numbers are very different between how many employees are eligible for mentorship vs how many current employees are in those departments, see the images below. I made two additional queries to see how the mentors would be divided up in their respective departments with the rest of the company.
 
+Mentors by Departments:
+
+
 
 ![Mentor_Depts](https://github.com/laurenneidhardt/Pewlett-Hackard-Analysis/blob/main/Mentor_Depts.PNG)
 
 
-Mentors by Departments:
+
+
+Total Employee Departments:
+
 
 
 ![Total_Dept_Counts](https://github.com/laurenneidhardt/Pewlett-Hackard-Analysis/blob/main/Total_Dept_Counts.PNG)
 
 
-Total Employee Departments:
+
 
 
 
